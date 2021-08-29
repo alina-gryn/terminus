@@ -1,0 +1,153 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  width: 1920px;
+}
+
+.header-logo {
+  padding: 35px 0 35px 250px;
+}
+
+.main-background {
+  height: 1080px;
+  width: 1920px;
+  background-image: url("./img/unlock-your-potential.png");
+}
+
+.title-section {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  color: #fff;
+  width: 700px;
+}
+
+.title-bottom {
+  margin-bottom: 76px;
+}
+
+.section-list {
+  background-color: #6ABDFD;
+  padding: 100px 0 128px 205px;
+  position: relative;
+  height: 749px;
+}
+
+.section-list-img {
+  position: absolute;
+  bottom: 0.35px;
+  right: 175px;
+  width: 800px;
+  height: 628px;
+  z-index: 99;
+}
+
+.section-list-backgroung {
+  position: absolute;
+  opacity: 0.2;
+  right: -1.12%;
+  bottom: 0.06%;
+}
+
+ul li {
+  list-style: none;
+}
+
+ul li.first {
+  background: url("./img/1.svg") no-repeat;
+  background-size: contain;
+  padding-left: 40px;
+  width: 460px;
+  margin-bottom: 48px;
+}
+
+
+ul li.second {
+  background: url("./img/2.svg") no-repeat;
+  background-size: 36px;
+  padding-left: 40px;
+  width: 460px;
+  margin-bottom: 48px;
+}
+
+ul li.third {
+  background: url("./img/3.svg") no-repeat;
+  background-size: contain;
+  padding-left: 40px;
+  width: 460px;
+  margin-bottom: 48px;
+}
+
+ul li.fourth {
+  background: url("./img/4.svg") no-repeat;
+  background-size: 36px;
+  padding-left: 40px;
+  width: 460px;
+  margin-bottom: 48px;
+}
+
+ul li.fifth {
+  background: url("./img/5.svg") no-repeat;
+  background-size: contain;
+  padding-left: 40px;
+  width: 460px;
+  margin-bottom: 48px;
+}
+
+ul li.sixth {
+  background: url("./img/6.svg") no-repeat;
+  background-size: contain;
+  padding-left: 40px;
+  width: 460px;
+  margin-bottom: 48px;
+}
+
+.table {
+  height: 767px;
+  background-color: rgba(0, 85, 137, 1);
+}
+
+.header-table {
+  font-size: 56px;
+  font-weight: 600;
+  line-height: 84px;
+  color: #fff;
+  text-align: center;
+  padding-top: 100px;
+  margin-bottom: 40px;
+}
+
+.img-table {
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 100px;
+}
+
+.inner {
+  background-image: url("./img/decoration-table.svg"), url("./img/decoration-table-right.svg");
+  background-repeat: no-repeat;
+  background-position: left bottom, right bottom;
+}
+
+.our-team-header {
+  font-size: 56px;
+  font-weight: 600;
+  line-height: 84px;
+  text-align: center;
+  margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
